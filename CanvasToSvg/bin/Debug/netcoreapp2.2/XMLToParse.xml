@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Canvas Name="Layer_3" Height="201" Canvas.Left="0" Canvas.Top="-0.89" Width="222">
-  <Path Data="F1M0,200.11L222,200.11L222,-0.889999999999986L0,-0.889999999999986z" Fill="#FFC2C2C1" Height="201" Canvas.Left="0" Stretch="Fill" Canvas.Top="0" Width="222" Visibility="Hidden"/>
-  <Path Data="M40.6406,21.2275L152.2716,21.2275L181.9046,46.0115L181.9046,176.3725L40.6406,176.3725L40.6406,21.2275z" Fill="#FFF3F3F3" Height="158.145" Canvas.Left="39.141" StrokeStartLineCap="Flat" Stretch="Fill" StrokeEndLineCap="Flat" Stroke="#FF565B5D" StrokeThickness="3" StrokeMiterLimit="4" StrokeLineJoin="Miter" Canvas.Top="20.618" Width="144.264"/>
-  <Path Data="M56.2974,37.9912L78.6194,37.9912" Height="4" Canvas.Left="54.297" StrokeStartLineCap="Flat" Stretch="Fill" StrokeEndLineCap="Flat" Stroke="#FF565B5D" StrokeThickness="4" StrokeMiterLimit="4" StrokeLineJoin="Miter" Canvas.Top="36.881" Width="26.322"/>
-  <Path Data="F1M180.44,74.491L41.726,74.491L41.726,49.1709999999999L180.44,49.1709999999999z" Fill="#FFEE323F" Height="25.32" Canvas.Left="41.726" Stretch="Fill" Canvas.Top="50.061" Width="138.714"/>
-  <Path Data="F1M150.385,49.171L41.725,49.171L41.725,22.1180000000001L150.385,22.1180000000001z" Fill="#FFE5EA14" Height="27.053" Canvas.Left="41.725" Stretch="Fill" Canvas.Top="23.008" Width="108.66"/>
-</Canvas>
